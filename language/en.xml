@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/language.xsd" languagecode="en">
+	<category name="wcf.acp.group">
+		<item name="wcf.acp.group.option.category.user.aboutMe"><![CDATA[About me]]></item>
+		<item name="wcf.acp.group.option.user.aboutMe.canView"><![CDATA[Can view about me page]]></item>
+	</category>
+	
+	<category name="wcf.acp.option">
+		<item name="wcf.acp.option.category.aboutMe"><![CDATA[Startpage]]></item>
+		<item name="wcf.acp.option.aboutMe_title"><![CDATA[Page Title]]></item>
+		<item name="wcf.acp.option.aboutMe_description"><![CDATA[Page Description]]></item>
+		<item name="wcf.acp.option.aboutMe_headline"><![CDATA[Headline]]></item>
+		<item name="wcf.acp.option.aboutMe_content"><![CDATA[Content]]></item>
+		<item name="wcf.acp.option.aboutMe_content_enable_html"><![CDATA[Use HTML Code in Text]]></item>
+		<item name="wcf.acp.option.aboutMe_content_enable_html.description"><![CDATA[By enabling this option you can use HTML code in the text.]]></item>
+	</category>
+
+	<category name="wcf.aboutMe">
+		<item name="wcf.aboutMe.title"><![CDATA[About me]]></item>
+	</category>
+	
+	<category name="wcf.header.menu">
+		<item name="wcf.header.menu.aboutMe"><![CDATA[About me]]></item>
+	</category>
+</language>
