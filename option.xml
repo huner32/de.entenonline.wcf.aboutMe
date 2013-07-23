@@ -14,25 +14,91 @@
 				<supporti18n>1</supporti18n>
 				<defaultvalue><![CDATA[Über uns]]></defaultvalue>
 			</option>
+			
 			<option name="aboutMe_description">
 				<categoryname>aboutMe</categoryname>
 				<optiontype>textI18n</optiontype>
 				<supporti18n>1</supporti18n>
 				<defaultvalue><![CDATA[Lernen Sie uns kennen]]></defaultvalue>
 			</option>
+			
 			<option name="aboutMe_headline">
 				<categoryname>aboutMe</categoryname>
 				<optiontype>textI18n</optiontype>
 				<supporti18n>1</supporti18n>
 				<defaultvalue><![CDATA[Über uns]]></defaultvalue>
 			</option>
+			
 			<option name="aboutMe_content">
 				<categoryname>aboutMe</categoryname>
 				<optiontype>textareaI18n</optiontype>
 				<supporti18n>1</supporti18n>
 				<defaultvalue><![CDATA[Hier könnte Ihre Beschreibung stehen]]></defaultvalue>
 			</option>
+			
 			<option name="aboutMe_content_enable_html">
+				<categoryname>aboutMe</categoryname>
+				<optiontype>boolean</optiontype>
+			</option>
+			
+			<option name="aboutMe_activate_tab1">
+				<categoryname>aboutMe</categoryname>
+				<optiontype>boolean</optiontype>
+			</option>
+			
+			<option name="aboutMe_tab1_title">
+				<categoryname>aboutMe</categoryname>
+				<optiontype>textI18n</optiontype>
+				<supporti18n>1</supporti18n>
+				<defaultvalue><![CDATA[Tab 1]]></defaultvalue>
+			</option>
+			
+			<option name="aboutMe_tab1_headline">
+				<categoryname>aboutMe</categoryname>
+				<optiontype>textI18n</optiontype>
+				<supporti18n>1</supporti18n>
+				<defaultvalue><![CDATA[Tab 1]]></defaultvalue>
+			</option>
+			
+			<option name="aboutMe_tab1_content">
+				<categoryname>aboutMe</categoryname>
+				<optiontype>textareaI18n</optiontype>
+				<supporti18n>1</supporti18n>
+				<defaultvalue><![CDATA[Hier könnte Ihre Beschreibung stehen]]></defaultvalue>
+			</option>
+			
+			<option name="aboutMe_tab1_content_enable_html">
+				<categoryname>aboutMe</categoryname>
+				<optiontype>boolean</optiontype>
+			</option>
+			
+			<option name="aboutMe_activate_tab2">
+				<categoryname>aboutMe</categoryname>
+				<optiontype>boolean</optiontype>
+			</option>
+			
+			<option name="aboutMe_tab2_title">
+				<categoryname>aboutMe</categoryname>
+				<optiontype>textI18n</optiontype>
+				<supporti18n>1</supporti18n>
+				<defaultvalue><![CDATA[Tab 2]]></defaultvalue>
+			</option>
+			
+			<option name="aboutMe_tab2_headline">
+				<categoryname>aboutMe</categoryname>
+				<optiontype>textI18n</optiontype>
+				<supporti18n>1</supporti18n>
+				<defaultvalue><![CDATA[Tab 2]]></defaultvalue>
+			</option>
+			
+			<option name="aboutMe_tab2_content">
+				<categoryname>aboutMe</categoryname>
+				<optiontype>textareaI18n</optiontype>
+				<supporti18n>1</supporti18n>
+				<defaultvalue><![CDATA[Hier könnte Ihre Beschreibung stehen]]></defaultvalue>
+			</option>
+			
+			<option name="aboutMe_tab2_content_enable_html">
 				<categoryname>aboutMe</categoryname>
 				<optiontype>boolean</optiontype>
 			</option>
